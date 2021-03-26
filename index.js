@@ -298,9 +298,14 @@
     // Create image element.
     var iconWrapper = document.createElement('div');
     iconWrapper.classList.add('info-hotspot-icon-wrapper');
-    var icon = document.createElement('img');
-    icon.src = 'img/info.png';
+    //var icon = document.createElement('img');
+    var icon = document.createElement('i');
+    //icon.src = '';
+    icon.classList.add('fas', hotspot.icon, 'fa-2x');
     icon.classList.add('info-hotspot-icon');
+    console.log(icon.classList);
+    console.log(icon);
+    console.log(iconWrapper);
     iconWrapper.appendChild(icon);
 
     // Create title element.

@@ -500,8 +500,11 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 }
 
 .info-hotspot .info-hotspot-icon {
+  /*width: 90%;
+  height: 90%; */
   width: 90%;
   height: 90%;
+  text-align: center;
   margin: 5%;
 }
 
