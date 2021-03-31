@@ -141,21 +141,21 @@ var APP_DATA = {
           "yaw": 2.2353588860310225,
           "pitch": 0.003841427824095689,
           "title": "Do you remember our erosion comparisons?<br>",
-          "text": "<img src=\"https://i.imgur.com/lw2Yi56.png\" alt=\"Cessna Landing but eroded\" title=\"source: imgur.com\" style=\"width:265px;height:216px;\" /></a> <br>This is the place we took those photos! All this <i>Spartina alterniflora</i> was planted by Grasses In Classes students. This creates a living shoreline. A living shoreline is a shoreline that promotes life and provides a habitat.<br>",
+          "text": "<img src=\"https://i.imgur.com/lw2Yi56.png\" alt=\"Cessna Landing but eroded\" title=\"source: imgur.com\" style=\"width:265px;\" /></a> <br>This is the place we took those photos! All this <i>Spartina alterniflora</i> was planted by Grasses In Classes students. This creates a living shoreline. A living shoreline is a shoreline that promotes life and provides a habitat.<br>",
           "icon": "fa-tree"
         },
         {
           "yaw": 2.5,
           "pitch": 0.003841427824095689,
           "title": "Smooth cordgrass can use rhizomes to grow.<br>",
-          "text": "<img src=\"https://i.imgur.com/QLu61SS.png\" alt=\"rhizome diagram\" title=\"source: imgur.com\"  /></a> <br> A rhizome is a special underground stem that can grow a new plant.<br>",
+          "text": "<img src=\"https://i.imgur.com/QLu61SS.png\" alt=\"rhizome diagram\" title=\"source: imgur.com\"  style=\"width:265px;\"/></a> <br> A rhizome is a special underground stem that can grow a new plant.<br>",
           "icon": "fa-info"
         },
         {
           "yaw": 1.6051087572307292,
           "pitch": 0.136926343590277,
           "title": "Planting Video Placeholder<br>",
-          "text": "Text <br><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/IeFbdk36MUU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "text": "Text <br><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/IeFbdk36MUU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><br>",
           "icon": "fa-play-circle"
         },
         {
