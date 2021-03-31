@@ -54,14 +54,14 @@ var APP_DATA = {
           "yaw": -0.36397184737508503,
           "pitch": -0.5726728778555881,
           "title": "Welcome to Cessna Landing!<br>",
-          "text": "Cessna Landing is located on Hogtown Bayou in Santa Rosa Beach, in the Southeast section of our bay. A bayou is ... Cessna Landing is one of our best examples of a restored living shoreline! Previous Grasses In Classes students planted a lot of the smooth cordgrass you will see on your tour today.<br>",
+          "text": "This tour is brought to you by AmeriCorps NWF Environmental Stewards and the Choctawhatchee Basin Alliance (CBA). Cessna Landing is located on Hogtown Bayou in Santa Rosa Beach, in the Southeast section of our bay. A bayou is a marshy body of water connected to the bay. Cessna Landing is one of our best examples of a restored living shoreline! Previous Grasses In Classes students planted a lot of the smooth cordgrass you will see on your tour today.<br>",
           "icon": "fa-globe-americas"
         },
         {
           "yaw": -0.5163677233089352,
           "pitch": 0.05231075917030026,
           "title": "This is our entry into the bayou!<br>",
-          "text": "When we build reefs and plant smooth cordgrass at Cessna Landing, we can unload our shell and plant bags here.<br>",
+          "text": "When we build reefs and plant smooth cordgrass at Cessna Landing, we usually unload our shell and plant bags here.<br>",
           "icon": "fa-info"
         },
         {
@@ -72,10 +72,17 @@ var APP_DATA = {
           "icon": "fa-anchor"
         },
         {
+          "yaw": 1.65,
+          "pitch": -0.09819823115829429,
+          "title": "This is a monofilament recycling bin.<br>",
+          "text": "The Choctawhatchee Basin Alliance collects monofilament, or fishing line, from these recycling bins around the bay. This program stops monofilament from trapping animals.<br>",
+          "icon": "fa-info"
+        },
+        {
           "yaw": -2.8909708463475,
           "pitch": -0.022720151618319306,
-          "title": "You can visit Cessna Landing<br>",
-          "text": "Just head over to Santa Rosa Beach!",
+          "title": "You can visit Cessna Landing too!<br>",
+          "text": "Just head over to Santa Rosa Beach.<br>",
           "icon": "fa-info"
         }
       ]
@@ -134,15 +141,8 @@ var APP_DATA = {
           "yaw": 2.2353588860310225,
           "pitch": 0.003841427824095689,
           "title": "Do you remember our erosion comparisons?<br>",
-          "text": "This is the place we took those photos! All this Spartina alterniflora was planted by Grasses In Classes students. This creates a living shoreline. A living shoreline is a shoreline that promotes life and provides a habitat.<br>",
+          "text": "<img src=\"https://i.imgur.com/lw2Yi56.png\" alt=\"fish diagram\" title=\"source: imgur.com\" style=\"width:420px;height:216px;\" /></a> This is the place we took those photos! All this <i>Spartina alterniflora</i> was planted by Grasses In Classes students. This creates a living shoreline. A living shoreline is a shoreline that promotes life and provides a habitat.<br>",
           "icon": "fa-tree"
-        },
-        {
-          "yaw": 0.8873521732694911,
-          "pitch": 0.15673330996388302,
-          "title": "Here is an old reef.<br>",
-          "text": "This reef has collected so much sediment and restored so much shoreline that it has become buried! The Eastern side of the bay has a siltier, or squishier, bay floor, so the reefs also sink. Our next project at Cessna Landing is topping off this reef so it can continue to slow waves and protect the shoreline.<br>",
-          "icon": "fa-info"
         },
         {
           "yaw": 1.6051087572307292,
@@ -150,6 +150,20 @@ var APP_DATA = {
           "title": "Planting Video Placeholder<br>",
           "text": "Text",
           "icon": "fa-play-circle"
+        },
+        {
+          "yaw": 1.3,
+          "pitch": 0.156733309,
+          "title": "This is the intertidal zone.<br>",
+          "text": "Smooth cordgrass grows in the intertidal zone, between the high tide line and the low tide line. On the day we took these photos, the tide was very low, and the water was farther from the smooth cordgrass than it usually is.<br>",
+          "icon": "fa-tint"
+        },
+        {
+          "yaw": 0.8873521732694911,
+          "pitch": 0.15673330996388302,
+          "title": "Here is an old reef.<br>",
+          "text": "This reef has collected so much sediment and restored so much shoreline that it has become buried! The Eastern side of the bay has a siltier, or squishier, bay floor, so the reefs also sink. Our next project at Cessna Landing is topping off this reef so it can continue to slow waves and protect the shoreline.<br>",
+          "icon": "fa-info"
         },
         {
           "yaw": 2.3800849586448507,
@@ -399,6 +413,13 @@ var APP_DATA = {
           "icon": "fa-question"
         },
         {
+          "yaw": -1.5,
+          "pitch": 0.08024033257718699,
+          "title": "Creek<br>",
+          "text": "This is a creek that feeds into Hogtown Bayou. It adds freshwater, lowering the salinity.<br>",
+          "icon": "fa-tint"
+        },
+        {
           "yaw": -1.1464958026329093,
           "pitch": 0.08024033257718699,
           "title": "AmeriCorps and CBA<br>",
@@ -521,7 +542,7 @@ var APP_DATA = {
           "yaw": 1.6917274310083075,
           "pitch": -0.01342418617574026,
           "title": "We plant smooth cordgrass behind our reefs<br>",
-          "text": "Explanation why<br>",
+          "text": "The reefs help slow wave energy so smooth cordgrass has time to grow its strong roots. Smooth cordgrass also filters and absorbs pollution, helping protect oysters from polluted water. Smooth cordgrass and oyster reefs work together to provide a great habitat for the wildlife in our bay.<br>",
           "icon": "fa-seedling"
         }
       ]
