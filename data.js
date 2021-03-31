@@ -141,14 +141,21 @@ var APP_DATA = {
           "yaw": 2.2353588860310225,
           "pitch": 0.003841427824095689,
           "title": "Do you remember our erosion comparisons?<br>",
-          "text": "<img src=\"https://i.imgur.com/lw2Yi56.png\" alt=\"fish diagram\" title=\"source: imgur.com\" style=\"width:420px;height:216px;\" /></a> This is the place we took those photos! All this <i>Spartina alterniflora</i> was planted by Grasses In Classes students. This creates a living shoreline. A living shoreline is a shoreline that promotes life and provides a habitat.<br>",
+          "text": "<img src=\"https://i.imgur.com/lw2Yi56.png\" alt=\"Cessna Landing but eroded\" title=\"source: imgur.com\" style=\"width:265px;height:216px;\" /></a> <br>This is the place we took those photos! All this <i>Spartina alterniflora</i> was planted by Grasses In Classes students. This creates a living shoreline. A living shoreline is a shoreline that promotes life and provides a habitat.<br>",
           "icon": "fa-tree"
+        },
+        {
+          "yaw": 2.5,
+          "pitch": 0.003841427824095689,
+          "title": "Smooth cordgrass can use rhizomes to grow.<br>",
+          "text": "<img src=\"https://i.imgur.com/QLu61SS.png\" alt=\"rhizome diagram\" title=\"source: imgur.com\"  /></a> <br> A rhizome is a special underground stem that can grow a new plant.<br>",
+          "icon": "fa-info"
         },
         {
           "yaw": 1.6051087572307292,
           "pitch": 0.136926343590277,
           "title": "Planting Video Placeholder<br>",
-          "text": "Text",
+          "text": "Text <br><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/IeFbdk36MUU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
           "icon": "fa-play-circle"
         },
         {
@@ -413,18 +420,18 @@ var APP_DATA = {
           "icon": "fa-question"
         },
         {
-          "yaw": -1.5,
-          "pitch": 0.08024033257718699,
-          "title": "Creek<br>",
-          "text": "This is a creek that feeds into Hogtown Bayou. It adds freshwater, lowering the salinity.<br>",
-          "icon": "fa-tint"
-        },
-        {
           "yaw": -1.1464958026329093,
           "pitch": 0.08024033257718699,
           "title": "AmeriCorps and CBA<br>",
           "text": "Look, they're already far ahead! Take a minute to look around here, then let's catch up!<br>",
           "icon": "fa-users"
+        },
+        {
+          "yaw": -1.6,
+          "pitch": 0.08024033257718699,
+          "title": "Creek<br>",
+          "text": "This is a creek that feeds into Hogtown Bayou. It adds freshwater, lowering the salinity.<br>",
+          "icon": "fa-tint"
         }
       ]
     },

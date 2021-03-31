@@ -526,6 +526,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 
 .desktop .info-hotspot.visible .info-hotspot-title-wrapper,
 .desktop.no-touch .info-hotspot .info-hotspot-header:hover .info-hotspot-title-wrapper {
+  /* width for title or width for both title and text on desktop? */
   width: 220px;
   padding: 0 5px;
   -webkit-transition: width 0s 0.4s,
@@ -599,6 +600,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 
 .info-hotspot .info-hotspot-text {
   position: absolute;
+  /* info hotspot text width? */
   width: 300px;
   height: auto;
   max-height: 200px;
