@@ -140,17 +140,9 @@ var APP_DATA = {
           "yaw": -0.0262676340007566,
           "pitch": 0.2628053004263933,
           "title": "Dipnetting game placeholder<br>",
-          "text": "<iframe src=\"https://scratch.mit.edu/projects/28322572/embed\" allowtransparency=\"true\" width=\"900px\" height=\"742px\" frameborder=\"0\" scrolling=\"no\" allowfullscreen></iframe><br>",
+          "text": "<iframe src=\"https://scratch.mit.edu/projects/28322572/embed\" allowtransparency=\"true\" width=\"710px\" height=\"588px\" frameborder=\"0\" scrolling=\"no\" allowfullscreen></iframe><br>",
           "icon": "fa-fish",
           "fullscreen": true
-        },
-        {
-          "yaw": 2.2353588860310225,
-          "pitch": 0.003841427824095689,
-          "title": "Do you remember our erosion comparisons?<br>",
-          "text": "<img src=\"https://i.imgur.com/lw2Yi56.png\" alt=\"Cessna Landing but eroded\" title=\"source: imgur.com\" style=\"width:265px;\" /></a> <br>This is the place we took those photos! All this <i>Spartina alterniflora</i> was planted by Grasses In Classes students. This creates a living shoreline. A living shoreline is a shoreline that promotes life and provides a habitat.<br>",
-          "icon": "fa-tree",
-          "fullscreen": false
         },
         {
           "yaw": 2.5,
@@ -161,12 +153,20 @@ var APP_DATA = {
           "fullscreen": false
         },
         {
+          "yaw": 2.2353588860310225,
+          "pitch": 0.003841427824095689,
+          "title": "Do you remember our erosion comparisons?<br>",
+          "text": "<img src=\"https://i.imgur.com/lw2Yi56.png\" alt=\"Cessna Landing but eroded\" title=\"source: imgur.com\" style=\"width:265px;\" /></a> <br>This is the place we took those photos! All this <i>Spartina alterniflora</i> was planted by Grasses In Classes students. This creates a living shoreline. A living shoreline is a shoreline that promotes life and provides a habitat.<br>",
+          "icon": "fa-tree",
+          "fullscreen": false
+        },
+        {
           "yaw": 1.6051087572307292,
           "pitch": 0.136926343590277,
           "title": "Planting Video Placeholder<br>",
-          "text": "<iframe width=\"275px\" src=\"https://www.youtube.com/embed/IeFbdk36MUU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><br>Please watch in full screen!",
+          "text": "<iframe width=\"710px\" height=\"530px\" src=\"https://www.youtube.com/embed/IeFbdk36MUU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><br>Watch this short video to learn more about planting.",
           "icon": "fa-play-circle",
-          "fullscreen": false
+          "fullscreen": true
         },
         {
           "yaw": 1.3,
@@ -659,7 +659,7 @@ var APP_DATA = {
           "yaw": 2.9868145943673152,
           "pitch": -0.10495496112915959,
           "title": "This is the way out of Hogtown Bayou.<br>",
-          "text": "Cessna Landing connects to the Choctawhatchee Bay. You can find many more of our living shoreline restoration sites around the bay. Add website link.<br>",
+          "text": "Cessna Landing connects to the Choctawhatchee Bay. You can find many more of our living shoreline restoration sites around the bay. Visit the <a href='https://basinalliance.org' style='color: greenyellow'>CBA website</a> for more information.<br>",
           "icon": "fa-globe-americas",
           "fullscreen": false
         }

@@ -506,7 +506,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 }
 
 .desktop.no-touch .info-hotspot-f .info-hotspot-header:hover {
-  width: 1000px;
+  width: 700px;
   border-radius: 5px;
   -webkit-transition: width 0.3s ease-in-out,
   border-radius 0.3s ease-in-out;
@@ -525,7 +525,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 
 .desktop .info-hotspot-f.visible .info-hotspot-header,
 .desktop.no-touch .info-hotspot-f.visible .info-hotspot-header:hover{
-  width: 1000px;
+  width: 700px;
   border-radius: 5px;
   border-top-right-radius: 0;
   border-bottom-right-radius: 0;
@@ -620,7 +620,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 .desktop .info-hotspot-f.visible .info-hotspot-title-wrapper,
 .desktop.no-touch .info-hotspot-f .info-hotspot-header:hover .info-hotspot-title-wrapper {
  /* width for title or width for both title and text on desktop? */
-  width: 960px;
+  width: 660px;
   padding: 0 5px;
   -webkit-transition: width 0s 0.4s,
   padding 0s 0.4s;
@@ -675,7 +675,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 
 .info-hotspot-f .info-hotspot-close-wrapper {
   position: absolute;
-  left: 1000px;
+  left: 700px;
   top: 0;
   height: 40px;
   width: 40px;
@@ -768,9 +768,9 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 .info-hotspot-f .info-hotspot-text {
   position: absolute;
   /* info hotspot text width? */
-  width: 1040px;
+  width: 740px;
   height: auto;
-  max-height: 1000px;
+  max-height: 825px;
   top: 40px;
   left: 0;
   padding: 10px;
