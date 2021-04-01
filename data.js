@@ -167,7 +167,7 @@ var APP_DATA = {
           "yaw": 1.6051087572307292,
           "pitch": 0.136926343590277,
           "title": "Watch this video about planting smooth cordgrass!<br>",
-          "text": "<iframe width=\"710px\" height=\"530px\" src=\"https://www.youtube.com/embed/3loRnaQNdIk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><br>",
+          "text": "<iframe width=\"710px\" height=\"530px\" src=\"https://www.youtube.com/embed/3loRnaQNdIk?rel=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><br>",
           "icon": "fa-play-circle",
           "fullscreen": true
         },
@@ -244,7 +244,7 @@ var APP_DATA = {
           "yaw": -0.1,
           "pitch": 0.17337398276150573,
           "title": "First, watch this video!<br>",
-          "text": "<p>In this short video, you will learn more about dipnetting.</p><br><iframe width=\"710\" height=\"530\" src=\"https://www.youtube.com/embed/LArWM8zvbnU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><br>",
+          "text": "<p>In this short video, you will learn more about dipnetting.</p><br><iframe width=\"710\" height=\"530\" src=\"https://www.youtube.com/embed/LArWM8zvbnU?rel=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><br>",
           "icon": "fa-play-circle",
           "fullscreen": true
         },
@@ -252,7 +252,7 @@ var APP_DATA = {
           "yaw": -.4,
           "pitch": 0.15,
           "title": "Second, watch this video!<br>",
-          "text": "<p>In this short video, you will learn about seine netting.</p><br><iframe width=\"710\" height=\"530\" src=\"https://www.youtube.com/embed/XQouXH5wOYM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><br>",
+          "text": "<p>In this short video, you will learn about seine netting.</p><br><iframe width=\"710\" height=\"530\" src=\"https://www.youtube.com/embed/XQouXH5wOYM?rel=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><br>",
           "icon": "fa-play-circle",
           "fullscreen": true
         },
@@ -260,7 +260,7 @@ var APP_DATA = {
           "yaw": -0.29101750917442004,
           "pitch": 0.0055052115183009676,
           "title": "Third, watch this video!<br>",
-          "text": "<p>In this short video, you will learn about cast netting.</p><br><iframe width=\"710\" height=\"530\" src=\"https://www.youtube.com/embed/raXDxwC3r2M\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><br>",
+          "text": "<p>In this short video, you will learn about cast netting.</p><br><iframe width=\"710\" height=\"530\" src=\"https://www.youtube.com/embed/raXDxwC3r2M?rel=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><br>",
           "icon": "fa-play-circle",
           "fullscreen": true
         }
@@ -363,14 +363,6 @@ var APP_DATA = {
           "title": "Houses &amp; Vacation Rentals<br>",
           "text": "<p>Locals, tourists, and wildlife all share the bay. Development on the shore has a huge impact on water quality and erosion. This is why it's so important to build living shorelines to help with human impact.</p>",
           "icon": "fa-house-user",
-          "fullscreen": false
-        },
-        {
-          "yaw": 0.4275680792852281,
-          "pitch": -0.4986903073645159,
-          "title": "Sounds of the bay<br>",
-          "text": "Listen to this audio while you travel across the bayou.",
-          "icon": "fa-headphones",
           "fullscreen": false
         }
       ]
@@ -585,7 +577,7 @@ var APP_DATA = {
           "yaw": 1.1638712587284967,
           "pitch": -0.5,
           "title": "Watch AmeriCorps build a reef!<br>",
-          "text": "<iframe width=\"710\" height=\"530\" src=\"https://www.youtube.com/embed/Sit1eo5OAN4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><br>",
+          "text": "<iframe width=\"710\" height=\"530\" src=\"https://www.youtube.com/embed/Sit1eo5OAN4?rel=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><br>",
           "icon": "fa-play-circle",
           "fullscreen": true
         }
@@ -638,7 +630,7 @@ var APP_DATA = {
           "yaw": -0.6750018297334588,
           "pitch": -0.004119604974430757,
           "title": "Watch this short video about our shell bags!<br>",
-          "text": "<iframe width=\"710\" height=\"530\" src=\"https://www.youtube.com/embed/lr7skvDpXKQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><br>",
+          "text": "<iframe width=\"710\" height=\"530\" src=\"https://www.youtube.com/embed/lr7skvDpXKQ?rel=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><br>",
           "icon": "fa-play-circle",
           "fullscreen": true
         },
