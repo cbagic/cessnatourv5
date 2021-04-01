@@ -47,7 +47,10 @@ var APP_DATA = {
           "yaw": -0.07050843673630958,
           "pitch": -0.6339758165065295,
           "title": "Sounds of Cessna!<br>",
-          "text": "You can play this audio while you travel around.",
+          "text": "You can play this audio while you travel around. Make it quiet so you can listen to videos.<audio controls loop>\n" +
+              "  <source src=\"Cessna%20soundscape.mp3\" type=\"audio/mpeg\">\n" +
+              "Your browser does not support the audio element.\n" +
+              "</audio>",
           "icon": "fa-headphones",
           "fullscreen": false
         },
@@ -163,8 +166,8 @@ var APP_DATA = {
         {
           "yaw": 1.6051087572307292,
           "pitch": 0.136926343590277,
-          "title": "Planting Video Placeholder<br>",
-          "text": "<iframe width=\"710px\" height=\"530px\" src=\"https://www.youtube.com/embed/IeFbdk36MUU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><br>Watch this short video to learn more about planting.",
+          "title": "Watch this video about planting smooth cordgrass!<br>",
+          "text": "<iframe width=\"710px\" height=\"530px\" src=\"https://www.youtube.com/embed/3loRnaQNdIk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><br>",
           "icon": "fa-play-circle",
           "fullscreen": true
         },
