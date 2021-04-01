@@ -659,7 +659,7 @@ var APP_DATA = {
           "yaw": 2.9868145943673152,
           "pitch": -0.10495496112915959,
           "title": "This is the way out of Hogtown Bayou.<br>",
-          "text": "<p>Cessna Landing connects to the Choctawhatchee Bay. You can find many more of our living shoreline restoration sites around the bay. It's important to protect our bay and our watershed for both humans and wildlife, including our watershed's two threatened fish, the Okaloosa darter and the Gulf sturgeon. Visit the <a href='https://basinalliance.org' style='color: greenyellow'>CBA website</a> for more information.</p>",
+          "text": "<p>Cessna Landing connects to the Choctawhatchee Bay. You can find many more of our living shoreline restoration sites around the bay. It's important to protect our bay and our watershed for both humans and wildlife, including our watershed's two threatened fish, the Okaloosa darter and the Gulf sturgeon. Visit the <a href='http://basinalliance.org' style='color: greenyellow'>CBA website</a> for more information.</p>",
           "icon": "fa-globe-americas",
           "fullscreen": false
         }

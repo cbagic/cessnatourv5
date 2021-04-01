@@ -48,6 +48,9 @@
     document.body.classList.add('desktop');
   }
 
+  console.log("is it mobile?");
+  function isMobile() { return ('ontouchstart' in document.documentElement); }
+  console.log(isMobile());
   // Detect whether we are on a touch device.
   document.body.classList.add('no-touch');
   window.addEventListener('touchstart', function() {
