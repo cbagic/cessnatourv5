@@ -411,7 +411,7 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 1.8509428018262835,
+          "yaw": 1.4,
           "pitch": -0.004094205934439543,
           "title": "We have to use waders to cross the bayou.<br>",
           "text": "<p>The silty organic soil makes it difficult to walk, but the waders keep us dry as we walk through the water. Let's keep going towards the reefs!</p>",
@@ -422,7 +422,7 @@ var APP_DATA = {
           "yaw": 0.06652389748309417,
           "pitch": -0.18540256687646917,
           "title": "This boat is abandoned.<br>",
-          "text": "<p>Sometimes people abandon old boats at Cessna Landing. This makes it harder to work and recreate here. Abandoned boats and fishing gear are also marine debris. Like other types of trash, abandoned boats cause problems for wildlife.</p><br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Turtle_entangled_in_marine_debris_%28ghost_net%29.jpg/300px-Turtle_entangled_in_marine_debris_%28ghost_net%29.jpg' alt='Man examines marine debris' width='265px'>",
+          "text": "<p>Sometimes people abandon old boats at Cessna Landing. This makes it harder to work and relax here. Abandoned boats and fishing gear are also marine debris. Like other types of trash, abandoned boats cause problems for wildlife.</p><br><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Turtle_entangled_in_marine_debris_%28ghost_net%29.jpg/300px-Turtle_entangled_in_marine_debris_%28ghost_net%29.jpg' alt='Man examines marine debris' width='265px'>",
           "icon": "fa-anchor",
           "fullscreen": false
         },
