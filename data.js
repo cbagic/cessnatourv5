@@ -46,8 +46,8 @@ var APP_DATA = {
         {
           "yaw": -0.07050843673630958,
           "pitch": -0.6339758165065295,
-          "title": "Soundscape Placeholder 1<br>",
-          "text": "Text",
+          "title": "Sounds of Cessna!<br>",
+          "text": "You can play this audio while you travel around.",
           "icon": "fa-headphones",
           "fullscreen": false
         },
@@ -139,8 +139,8 @@ var APP_DATA = {
         {
           "yaw": -0.0262676340007566,
           "pitch": 0.2628053004263933,
-          "title": "Dipnetting game placeholder<br>",
-          "text": "<p>Be patient - this game may take a minute to load. Use the arrow keys to move your net around. To dip your net, press the space bar. Press the space bar again to release your catch. </p><br><iframe src=\"https://scratch.mit.edu/projects/500087619/embed\" allowtransparency=\"true\" width=\"710\" height=\"588\" frameborder=\"0\" scrolling=\"no\" allowfullscreen></iframe><br>",
+          "title": "Dipnetting: You try it!<br>",
+          "text": "<p>Be patient - this game may take a minute to load. Press the green flag to start and reset. Use the arrow keys to move your dip net around. To catch a fish, press the space bar when the net is touching the mysterious blob! Press \"R\" to release your catch. </p><br><iframe src=\"https://scratch.mit.edu/projects/500087619/embed\" allowtransparency=\"true\" width=\"710\" height=\"588\" frameborder=\"0\" scrolling=\"no\" allowfullscreen></iframe><br>",
           "icon": "fa-fish",
           "fullscreen": true
         },
@@ -156,7 +156,7 @@ var APP_DATA = {
           "yaw": 2.2353588860310225,
           "pitch": 0.003841427824095689,
           "title": "Smooth cordgrass has really helped this tree!<br>",
-          "text": "<img src=\"https://i.imgur.com/lw2Yi56.png\" alt=\"Cessna Landing but eroded\" title=\"source: imgur.com\" style=\"width:265px;\" /></a> <p>This image is what Cessna Landing used to look like! All this <i>Spartina alterniflora</i> was planted by Grasses In Classes students. This creates a living shoreline. A living shoreline is a shoreline that promotes life and provides a habitat.</p>",
+          "text": "<img src=\"https://i.imgur.com/lw2Yi56.png\" alt=\"Cessna Landing but eroded\" title=\"source: imgur.com\" style=\"width:265px;\" /></a> <p>This image is what Cessna Landing used to look like! Look at all those exposed roots! All this <em>Spartina alterniflora</em> was planted by Grasses In Classes students. This creates a living shoreline. A living shoreline is a shoreline that promotes life and provides a habitat.</p>",
           "icon": "fa-tree",
           "fullscreen": false
         },
@@ -257,7 +257,7 @@ var APP_DATA = {
           "yaw": -0.29101750917442004,
           "pitch": 0.0055052115183009676,
           "title": "Third, watch this video!<br>",
-          "text": "<p>In this short video, you will learn about cast netting.</p><br><iframe width=\"710\" height=\"530\" src=\"https://www.youtube.com/embed/4eYB7DJhc-Y\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><br>",
+          "text": "<p>In this short video, you will learn about cast netting.</p><br><iframe width=\"710\" height=\"530\" src=\"https://www.youtube.com/embed/raXDxwC3r2M\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><br>",
           "icon": "fa-play-circle",
           "fullscreen": true
         }
@@ -365,8 +365,8 @@ var APP_DATA = {
         {
           "yaw": 0.4275680792852281,
           "pitch": -0.4986903073645159,
-          "title": "Water Soundscape Placeholder<br>",
-          "text": "Text",
+          "title": "Sounds of the bay<br>",
+          "text": "Listen to this audio while you travel across the bayou.",
           "icon": "fa-headphones",
           "fullscreen": false
         }
@@ -459,7 +459,7 @@ var APP_DATA = {
           "yaw": -1.6,
           "pitch": 0.08024033257718699,
           "title": "This is a creek mouth.<br>",
-          "text": "<p>This creek that empties into Hogtown Bayou. It adds freshwater, lowering the salinity.</p>",
+          "text": "<p>This creek empties into Hogtown Bayou. It adds freshwater, lowering the salinity.</p>",
           "icon": "fa-tint",
           "fullscreen": false
         }
@@ -571,20 +571,20 @@ var APP_DATA = {
           "fullscreen": false
         },
         {
-          "yaw": 1.1638712587284967,
-          "pitch": -0.5,
-          "title": "Reef Building video placeholder<br>",
-          "text": "<iframe width=\"710\" height=\"530\" src=\"https://www.youtube.com/embed/Sit1eo5OAN4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><br>",
-          "icon": "fa-play-circle",
-          "fullscreen": true
-        },
-        {
           "yaw": 1.6917274310083075,
           "pitch": -0.01342418617574026,
           "title": "We plant smooth cordgrass behind our reefs.<br>",
           "text": "<p>The reefs help slow wave energy so smooth cordgrass has time to grow its strong roots. Smooth cordgrass also filters and absorbs pollution, helping protect oysters from polluted water. Smooth cordgrass and oyster reefs work together to provide a great habitat for the wildlife in our bay.</p>",
           "icon": "fa-seedling",
           "fullscreen": false
+        },
+        {
+          "yaw": 1.1638712587284967,
+          "pitch": -0.5,
+          "title": "Watch AmeriCorps build a reef!<br>",
+          "text": "<iframe width=\"710\" height=\"530\" src=\"https://www.youtube.com/embed/Sit1eo5OAN4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><br>",
+          "icon": "fa-play-circle",
+          "fullscreen": true
         }
       ]
     },
