@@ -238,28 +238,28 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 2.049648415083558,
+          "yaw": -0.1,
           "pitch": 0.17337398276150573,
-          "title": "Dipnetting Video Placeholder<br>",
-          "text": "Text",
+          "title": "First, watch this video!<br>",
+          "text": "<p>In this short video, you will learn more about dipnetting.</p><br><iframe width=\"710\" height=\"530\" src=\"https://www.youtube.com/embed/LArWM8zvbnU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><br>",
           "icon": "fa-play-circle",
-          "fullscreen": false
+          "fullscreen": true
         },
         {
-          "yaw": -1.0897092798875097,
-          "pitch": 0.31126732538728774,
-          "title": "Seine Netting Video Placeholder<br>",
-          "text": "Text",
+          "yaw": -.4,
+          "pitch": 0.15,
+          "title": "Second, watch this video!<br>",
+          "text": "<p>In this short video, you will learn about seine netting.</p><br><iframe width=\"710\" height=\"530\" src=\"https://www.youtube.com/embed/XQouXH5wOYM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><br>",
           "icon": "fa-play-circle",
-          "fullscreen": false
+          "fullscreen": true
         },
         {
           "yaw": -0.29101750917442004,
           "pitch": 0.0055052115183009676,
-          "title": "Cast Netting Video Placeholder<br>",
-          "text": "Text",
+          "title": "Third, watch this video!<br>",
+          "text": "<p>In this short video, you will learn about cast netting.</p><br><iframe width=\"710\" height=\"530\" src=\"https://www.youtube.com/embed/4eYB7DJhc-Y\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><br>",
           "icon": "fa-play-circle",
-          "fullscreen": false
+          "fullscreen": true
         }
       ]
     },
@@ -572,11 +572,11 @@ var APP_DATA = {
         },
         {
           "yaw": 1.1638712587284967,
-          "pitch": 0.0915154302041099,
+          "pitch": -0.5,
           "title": "Reef Building video placeholder<br>",
-          "text": "Text",
+          "text": "<iframe width=\"710\" height=\"530\" src=\"https://www.youtube.com/embed/Sit1eo5OAN4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><br>",
           "icon": "fa-play-circle",
-          "fullscreen": false
+          "fullscreen": true
         },
         {
           "yaw": 1.6917274310083075,
@@ -634,7 +634,7 @@ var APP_DATA = {
         {
           "yaw": -0.6750018297334588,
           "pitch": -0.004119604974430757,
-          "title": "Watch this short video about our shell bags.<br>",
+          "title": "Watch this short video about our shell bags!<br>",
           "text": "<iframe width=\"710\" height=\"530\" src=\"https://www.youtube.com/embed/lr7skvDpXKQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><br>",
           "icon": "fa-play-circle",
           "fullscreen": true
@@ -659,7 +659,7 @@ var APP_DATA = {
           "yaw": 2.9868145943673152,
           "pitch": -0.10495496112915959,
           "title": "This is the way out of Hogtown Bayou.<br>",
-          "text": "<p>Cessna Landing connects to the Choctawhatchee Bay. You can find many more of our living shoreline restoration sites around the bay. Visit the <a href='https://basinalliance.org' style='color: greenyellow'>CBA website</a> for more information.</p>",
+          "text": "<p>Cessna Landing connects to the Choctawhatchee Bay. You can find many more of our living shoreline restoration sites around the bay. It's important to protect our bay and our watershed for both humans and wildlife, including our watershed's two threatened fish, the Okaloosa darter and the Gulf sturgeon. Visit the <a href='https://basinalliance.org' style='color: greenyellow'>CBA website</a> for more information.</p>",
           "icon": "fa-globe-americas",
           "fullscreen": false
         }
